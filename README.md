@@ -22,16 +22,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-1. [Installation](#installation)  
-2. [Usage](#usage)  
-3. [Results & Evaluation](#results--evaluation)  
-4. [Notebook Walkthrough](#notebook-walkthrough)  
-5. [Dependencies](#dependencies)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
-8. [Contact](#contact)
 
 ---
 
